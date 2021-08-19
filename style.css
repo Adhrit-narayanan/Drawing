@@ -1,0 +1,17 @@
+body{
+   background-color: aqua;
+   text-align: center;
+  }
+  h1
+  {
+      color: rgb(0, 38, 255); 
+      font-size: 40px;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+      border-color: blue;
+  }
+  
